@@ -57,11 +57,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f520/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
     vendor/lge/f520/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
     vendor/lge/f520/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
-    vendor/lge/f520/proprietary/etc/firmware/keymaste.b01:system/system/etc/firmware/keymaste.b01 \
-    vendor/lge/f520/proprietary/etc/firmware/keymaste.b02:system/system/etc/firmware/keymaste.b02 \
-    vendor/lge/f520/proprietary/etc/firmware/keymaste.b03:system/system/etc/firmware/keymaste.b03 \
-    vendor/lge/f520/proprietary/etc/firmware/keymaste.mdt:system/system/etc/firmware/keymaste.mdt \
-    vendor/lge/f520/proprietary/etc/firmware/keymaste.b00:system/system/etc/firmware/keymaste.b00 \
+    vendor/lge/f520/proprietary/etc/firmware/keymaste.b01:system/etc/firmware/keymaste.b01 \
+    vendor/lge/f520/proprietary/etc/firmware/keymaste.b02:system/etc/firmware/keymaste.b02 \
+    vendor/lge/f520/proprietary/etc/firmware/keymaste.b03:system/etc/firmware/keymaste.b03 \
+    vendor/lge/f520/proprietary/etc/firmware/keymaste.mdt:system/etc/firmware/keymaste.mdt \
+    vendor/lge/f520/proprietary/etc/firmware/keymaste.b00:system/etc/firmware/keymaste.b00 \
     vendor/lge/f520/proprietary/vendor/firmware/BCM4334B0_002.001.013.1817.2169.hcd:system/vendor/firmware/BCM4334B0_002.001.013.1817.2169.hcd \
     vendor/lge/f520/proprietary/vendor/lib/lib-rcsimssjni.so:system/vendor/lib/lib-rcsimssjni.so \
     vendor/lge/f520/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
