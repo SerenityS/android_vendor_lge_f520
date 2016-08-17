@@ -38,9 +38,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f520/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/lge/f520/proprietary/etc/firmware/fw_bcmdhd_mfg.bin:system/etc/firmware/fw_bcmdhd_mfg.bin \
     vendor/lge/f520/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/lge/f520/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
+    vendor/lge/f520/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/lge/f520/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
-    vendor/lge/f520/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
+    vendor/lge/f520/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/lge/f520/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/lge/f520/proprietary/etc/firmware/cpp_firmware_v1_2_1.fw:system/etc/firmware/cpp_firmware_v1_2_1.fw \
     vendor/lge/f520/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
