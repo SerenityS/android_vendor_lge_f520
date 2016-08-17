@@ -18,7 +18,23 @@
 DEVICE_PACKAGE_OVERLAYS := vendor/lge/f520/overlay
 
 PRODUCT_PACKAGES += \
-    libbtnv \
+    shutdownlistener
 
-#com.qualcomm.services.location
+PRODUCT_PACKAGES += \
+    libbtnv \
+    libtime_genoff \
+    libTimeService \
+    TimeService \
+    libscale \
+    libmdmdetect \
+    libperipheral_client \
+    libqmiservices \
+    libqmi \
+    libqcci_legacy \
+    libqmi_client_qmux \
+    libqmi_csi \
+    libqmi_cci \
+    libqmi_common_so \
+    libdsi_netctrl
+
 $(call inherit-product, vendor/lge/f520/f520-vendor-blobs.mk)
