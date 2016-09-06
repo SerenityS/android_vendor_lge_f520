@@ -177,6 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f520/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/lge/f520/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/lge/f520/proprietary/vendor/lib/libswev8.so:system/vendor/lib/libswev8.so \
+    vendor/lge/f520/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/lge/f520/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/lge/f520/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/lge/f520/proprietary/vendor/lib/mmi_wifi.so:system/vendor/lib/mmi_wifi.so \
