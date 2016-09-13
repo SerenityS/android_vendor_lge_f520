@@ -236,7 +236,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f520/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/lge/f520/proprietary/vendor/lib/libVenusMbiConv.so:system/vendor/lib/libVenusMbiConv.so \
     vendor/lge/f520/proprietary/vendor/lib/libmmrtpencoder.so:system/vendor/lib/libmmrtpencoder.so \
-    vendor/lge/f520/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
     vendor/lge/f520/proprietary/vendor/lib/libmmipstreamnetwork.so:system/vendor/lib/libmmipstreamnetwork.so \
     vendor/lge/f520/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/lge/f520/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
@@ -321,8 +320,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f520/proprietary/vendor/lib/mmi_gsensor.so:system/vendor/lib/mmi_gsensor.so \
     vendor/lge/f520/proprietary/vendor/lib/libcne.so:system/vendor/lib/libcne.so \
     vendor/lge/f520/proprietary/vendor/lib/libchromatix_imx219_common.so:system/vendor/lib/libchromatix_imx219_common.so \
+    vendor/lge/f520/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/lge/f520/proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/lge/f520/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/lge/f520/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lge/f520/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/f520/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
